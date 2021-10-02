@@ -37,4 +37,4 @@ print(("New lines can be created with a backslash and n.")
 #6. Make sure the input cursor shows on a new line.
 ```
 
-Run you code on terminal using Python [main.py]
+Run your code on the terminal
