@@ -39,4 +39,4 @@ connsole(("New lines can be created with a backslash and n.")
 #6. Make sure the input cursor shows on a new line.
 ``` -->
 
-Run you code on terminal using node [app.js]
+Run your code on the terminal
