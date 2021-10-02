@@ -1,6 +1,6 @@
 # Challenge Yourself To Code
 
-##### Instructions: *Describe your *
+##### Instructions: *Describe your*
 ### *Starting from : November 7, 2020*
 
 ### *I pledge to complete this 100 days of coding challenge.*
