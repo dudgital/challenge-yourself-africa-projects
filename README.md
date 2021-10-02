@@ -1,4 +1,4 @@
-# Challenge Yourself To Code In 100 Days
+# Challenge Yourself To Code
 
 ##### Instructions: *Describe your *
 ### *Starting from : November 7, 2020*
