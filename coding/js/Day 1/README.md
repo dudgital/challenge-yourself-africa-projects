@@ -36,7 +36,7 @@ connsole(("New lines can be created with a backslash and n.")
 #3. Ask the user for the second word.
 #4. Combine the two words and show them their proposed brand name.
 #5. Count the length of characters in the user's brand name
-#6. Make sure to validate inputs and return friendly error message when inputs are empty
+#6. Make sure to validate inputs and return friendly error message when inputs are empty.
 
 ```
 
