@@ -30,14 +30,14 @@ print(("New lines can be created with a backslash and n.")
 
 *coming soon*
 
-<!-- 5. Take the last challenge for day 1 by building a simple brand name generator console app that expects 2 words from users to form a unique brand name. Use the following hint:
+5. Take the last challenge for day 1 by building a simple brand name generator console app that expects 2 words from users to form a unique brand name. Use the following hint:
 ```
 #1. Create a nice greeting to welcome your users.
 #2. Ask the user for the first word of their choice
 #3. Ask the user for the second word.
 #4. Combine the two words and show them their proposed brand name.
 #5. Count the length of characters in the user brand name
-#6. Make sure the input cursor shows on a new line.
-``` -->
+#6. Make sure to validate inputs and return friendly error message when inputs are empty
+```
 
-Run you code on terminal using Python [index.php]
+Run you code on terminal
